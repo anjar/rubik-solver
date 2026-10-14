@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2026-10-14",
+    "macrostructure": "Workbench",
+    "theme": "Hum",
+    "enrichment": "interactive instructional Three.js cube",
+    "nav": "N1",
+    "footer": "Ft2",
+    "brief": "Rubik Pandu, beginner 3×3 offline solver; restrained by user preference",
+    "verification": "geometry and DOM flow tests pass; real browser/mobile visual review pending due sandbox restrictions"
+  }
+]
